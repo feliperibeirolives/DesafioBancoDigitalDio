@@ -29,8 +29,6 @@ public class Main {
 		
 		System.out.println();
 		System.out.println();
-		System.out.println("=========Teste=======");
-		System.out.println();
 		ccFelipe.depositar(13);
 		ccJose.sacar(2);
 		ccJose.sacar(5000);
